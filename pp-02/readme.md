@@ -66,6 +66,7 @@ Then, also list here the keyboard commands to switch between your different virt
 some operating systems, you might be able to customize the shortcuts to your own liking):
 
 I used the MAC F3 Function Short-cut key to access my virtual desktops.
+Also using the Command key with tab key will allow you to switch between the applications in all three desktops.
 
 
 4. Set up a distraction-free browser.
