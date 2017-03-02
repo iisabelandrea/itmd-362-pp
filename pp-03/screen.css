@@ -191,12 +191,17 @@ textarea {
   font-size: 1.125em; /* 18px / 16px */
   line-height: 1.222em; /* 22px / 18px */
   background-color: #ffe4cc;
+
  }
 
- h1 {
+ h1, p {
   font-size: 1.602em;
   padding-bottom: .5em;
-}
+ }
+
+  li {
+  line-height: 1.222em;
+ }
 
 /* ===== LAYOUT STYLES ===== */
 
