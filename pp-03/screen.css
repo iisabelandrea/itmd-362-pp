@@ -183,8 +183,11 @@ textarea {
 
 /* ===== BASE STYLES ===== */
 
-/* Navigation */
-
+ html {
+  font-size: 1.125em; /* 18px / 16px */
+  line-height: 1.222em; /* 22px / 18px */
+  background-color: #ffe4cc;
+ }
 
 /* ===== LAYOUT STYLES ===== */
 
