@@ -180,6 +180,10 @@ textarea {
 
 /* end normalize.css form styles */
 
+/*
+    Major Second Modular Scale:
+    http://www.modularscale.com/?1&em&1.5&web&text
+*/
 
 /* ===== BASE STYLES ===== */
 
@@ -188,6 +192,11 @@ textarea {
   line-height: 1.222em; /* 22px / 18px */
   background-color: #ffe4cc;
  }
+
+ h1 {
+  font-size: 1.602em;
+  padding-bottom: .5em;
+}
 
 /* ===== LAYOUT STYLES ===== */
 
