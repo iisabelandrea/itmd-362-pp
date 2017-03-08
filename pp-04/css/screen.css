@@ -202,6 +202,11 @@ label {
   display: block;
 }
 
+input {
+  border: none;
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
