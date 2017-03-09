@@ -196,6 +196,7 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  font-family: sans-serif;
 }
 
 label {
@@ -207,9 +208,13 @@ input {
   background-color: rgba(0, 0, 0, 0.15);
 }
 
-/* ===== LAYOUT STYLES ====== */
+li {
+  padding: 1.182em; /* 26px / ~ 120% */
+}
 
-/* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
 
+html.wf-active{
+  font-family: "Gill Sans", "Gill Sans MT", sans-serif;
+}
