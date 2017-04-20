@@ -9,12 +9,14 @@ Then, locate a physical object that you use regularly in your life (does not hav
 ## Deliverables
 
 A. Photograph of the object (place in the pp-09/ directory and commit).
+ -- Item in the photo is my Vivofit Watch
 
 B. Emotional design levels of your object:
 
 * Visceral:
+The visceral level is to make rapid judgments of what is good or bad, safe or dangerous, and sends appropriate signals to the muscles (the motor system) and alerts the rest of the brain. My Vivofit- It's a devise that I can look at with ease, I have no doubt that it's not safe and I feel like the aqua color makes me look forward to wearing it, especially with my matching gym shoes.
 
-* Behavioral:
+* Behavioral: The behavioral level is the site of most human behavior, or also known as routine operations; it's something I can't go without. This device could make me want to instantly get up and start moving (doesn't mean i'll actually do it) but because the device will analyze my activity and responses with a red strip at the top when I'm being lazy, or even too lazy.
 
 * Reflective:
 
