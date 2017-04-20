@@ -13,13 +13,13 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Responsive design
+2. Easy to Navigate
+3. Content is clear and concise
+4. Color palette -- good contrast
+5. Accessibility (in every way)
+6. Tagline makes the purpose clear
+7. Unobtrusive add-ons or popups
+8. Clean and Meaningful URLs
+9. Help text should be clear and unambiguous
+10. Minimalist design
