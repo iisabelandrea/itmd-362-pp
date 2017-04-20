@@ -18,10 +18,10 @@ The visceral level is to make rapid judgments of what is good or bad, safe or da
 
 * Behavioral: The behavioral level is the site of most human behavior, or also known as routine operations; it's something I can't go without. This device could make me want to instantly get up and start moving (doesn't mean i'll actually do it) but because the device will analyze my activity and responses with a red strip at the top when I'm being lazy, or even too lazy.
 
-* Reflective:
+* Reflective: Reflective is known as the contemplative part of the brain. It subconsciously makes me feel better when I know I have it constantly tracking my fitness activity as well as my sleep activity. I know I can also reflect on the overall data it provides me at any time I want, when syncing it to my phone.
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1. The watch (to me) is aesthetically pleasing. Aesthetics is important for a website. It shouldn't have too much, but enough to set a mood or impression to the user.
+2. The watch is simple to use, just one button that takes care of 7 different tasks. I think our site should also have a minimal and simple design.
+3. The watch does what it promises to do, and we need to make sure our site does exactly what it's supposed to do and reflects confidence.
